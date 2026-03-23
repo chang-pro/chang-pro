@@ -17,6 +17,18 @@
 
 > Building SaaS platforms, voice/telephony systems, and AI-powered automation. I ship fast, learn faster, and let the work speak for itself.
 
+## Featured Open Source
+
+### 🎬 [ClipPro](https://github.com/chang-pro/clippro) — Free Opus Clip Alternative `Open Source`
+
+> Turn long videos into viral clips — runs locally, no subscriptions, no cloud uploads.
+
+Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your video, finds the highest-virality moments using AI hook scoring, cuts clips with karaoke captions and hook text overlays. Includes a web UI and a clip combiner for WhatsApp-style content workflows.
+
+`Python` `Flask` `faster-whisper` `Gemini 2.5 Flash` `FFmpeg` `OpenCV`
+
+---
+
 ## Current Projects
 
 - 📞 **[Ringora](https://github.com/chang-pro/ringora-saas-crm)** — Multi-tenant SaaS CRM & power dialer with Telnyx WebRTC, Stripe billing, AI call analysis, and Rust WASM
