@@ -30,18 +30,14 @@ Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your vide
 `Python` `Flask` `faster-whisper` `Gemini 2.5 Flash` `FFmpeg` `OpenCV`
 
 - 🎯 **[Viral Hook Extractor](https://github.com/chang-pro/viral-hook-extractor)** — AI video clipper that finds high-retention hooks, ranks cuts, reframes to 9:16, and burns captions `Open Source`
-- 🦞 **[OpenClaw AI Ops](https://github.com/chang-pro/openclaw-ai-ops)** — AI operations agent: Sentry monitoring, Telegram dispatch, and automated daily briefs
-- 🎮 **[Mission Control](https://github.com/chang-pro/ai-mission-control)** — AI agent orchestration dashboard — create tasks, plan with AI, dispatch and watch agents work (Next.js)
-- 🤖 **[Job Application Automation](https://github.com/chang-pro/openclaw-job-automation)** — Multi-step apply system with Chrome CDP browser automation and Telegram dispatch
+- 🤖 **[Job Application Automation](https://github.com/chang-pro/openclaw-job-automation)** — Multi-ATS apply engine (Workday, Greenhouse, Lever, Ashby, Handshake) with a deterministic fill engine + LLM fallback
 - 📈 **[MES Trading Bot](https://github.com/chang-pro/mes-futures-trading-bot)** — Algorithmic futures system with a custom backtest engine and live execution
 
 ## 📞 Voice, Telephony & SaaS
 
 - 📟 **[Ringora](https://github.com/chang-pro/ringora-saas-crm)** — Multi-tenant SaaS CRM & power dialer: Telnyx WebRTC, Stripe billing, AI call analysis, Rust WASM
-- 🔊 **[Twilio Voice Platform](https://github.com/chang-pro/twilio-voice-sms-dashboard)** — Full-stack softphone, power dialer, mass SMS, and CRM analytics
-- 📱 **[BulkVS Dialer](https://github.com/chang-pro/bulkvs-webrtc-dialer)** — WebRTC softphone with DTMF support and mass SMS broadcasting
 - 🦷 **[AI Dental Voice Bot](https://github.com/chang-pro/ai-dental-voice-bot)** — Voice AI for dental appointment scheduling via Vapi, Google Calendar, and Twilio SMS
-- ⚡ **[n8n Workflows](https://github.com/chang-pro/n8n-workflow-automation)** — Self-hosted n8n with webhook-driven lead enrichment automations
+- ☎️ **[Number Validator](https://github.com/chang-pro/Number_Validator)** — Phone-number validation & risk-scoring CLI using the IPQualityScore API `Open Source`
 
 ## 🌐 Web & Product
 
@@ -53,6 +49,7 @@ Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your vide
 ## 📊 Building in Public
 
 - 🛠️ **[daily-builds](https://github.com/chang-pro/daily-builds)** — a public log of what I ship most days. Project repos stay private; the cadence is public.
+- 🌱 **[openai-chart-data-analyzer](https://github.com/chang-pro/openai-chart-data-analyzer)** — one of my first builds (2022): a PyQt GUI querying GPT-3 on chart data. Kept as a marker of how far the work has come.
 
 ---
 
