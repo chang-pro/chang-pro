@@ -30,14 +30,14 @@ Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your vide
 `Python` `Flask` `faster-whisper` `Gemini 2.5 Flash` `FFmpeg` `OpenCV`
 
 - 🎯 **[Viral Hook Extractor](https://github.com/chang-pro/viral-hook-extractor)** — AI video clipper that finds high-retention hooks, ranks cuts, reframes to 9:16, and burns captions `Open Source`
-- 🤖 **[Job Application Automation](https://github.com/chang-pro/openclaw-job-automation)** — Multi-ATS apply engine (Workday, Greenhouse, Lever, Ashby, Handshake) with a deterministic fill engine + LLM fallback
-- 📈 **[MES Trading Bot](https://github.com/chang-pro/mes-futures-trading-bot)** — Algorithmic futures system with a custom backtest engine and live execution
+- 🤖 **[Job Application Automation](https://github.com/chang-pro/jobbot)** — Multi-ATS apply engine (Workday, Greenhouse, Lever, Ashby, Handshake) with a deterministic fill engine + LLM fallback
+- 📈 **[MES Trading Bot](https://github.com/chang-pro/mes-trading-bot)** — Algorithmic futures system with a custom backtest engine and live execution
 
 ## 📞 Voice, Telephony & SaaS
 
-- 📟 **[Ringora](https://github.com/chang-pro/ringora-saas-crm)** — Multi-tenant SaaS CRM & power dialer: Telnyx WebRTC, Stripe billing, AI call analysis, Rust WASM
-- 🦷 **[AI Dental Voice Bot](https://github.com/chang-pro/ai-dental-voice-bot)** — Voice AI for dental appointment scheduling via Vapi, Google Calendar, and Twilio SMS
-- ☎️ **[Number Validator](https://github.com/chang-pro/Number_Validator)** — Phone-number validation & risk-scoring CLI using the IPQualityScore API `Open Source`
+- 📟 **[Ringora](https://github.com/chang-pro/ringora-crm)** — Multi-tenant SaaS CRM & power dialer: Telnyx WebRTC, Stripe billing, AI call analysis, Rust WASM
+- 🦷 **[AI Dental Voice Bot](https://github.com/chang-pro/dental-voice-agent)** — Voice AI for dental appointment scheduling via Vapi, Google Calendar, and Twilio SMS
+- ☎️ **[Number Validator](https://github.com/chang-pro/number-validator)** — Phone-number validation & risk-scoring CLI using the IPQualityScore API `Open Source`
 
 ## 🌐 Web & Product
 
