@@ -57,9 +57,6 @@ Browser-driven CDP automation using your real logged-in Chrome session. No partn
 
 ## 🌐 Web & Product
 
-- 🎨 **[Portfolio](https://github.com/chang-pro/portfolio-site)** — Personal portfolio — [dmchang.xyz](https://www.dmchang.xyz)
-- 🌐 **[TechHelpFL](https://github.com/chang-pro/techhelpfl-site)** — SEO-optimized landing page for a local tech services business — [techhelpfl.com](https://techhelpfl.com)
-- 🧹 **[Orleans Cleaning](https://github.com/chang-pro/orleans-cleaning-site)** — Client website with Payload CMS
 - 🏡 **[Real Estate Poster Generator](https://github.com/chang-pro/real-estate-poster-gen)** — Marketing posters from 10 unique templates `Open Source`
 
 ## 📊 Building in Public
