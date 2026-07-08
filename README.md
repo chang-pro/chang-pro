@@ -45,16 +45,13 @@ Browser-driven CDP automation using your real logged-in Chrome session. No partn
 
 `Python` `MCP` `Chrome CDP` `LinkedIn`
 
-- 🎯 **[Viral Hook Extractor](https://github.com/chang-pro/viral-hook-extractor)** — AI video clipper that finds high-retention hooks, ranks cuts, reframes to 9:16, and burns captions `Open Source`
 
 ## 📞 Voice, Telephony & SaaS
 
 - 📟 **Ringora** — Multi-tenant SaaS CRM & power dialer: Telnyx WebRTC, Stripe billing, AI call analysis, Rust WASM
-- ☎️ **[Number Validator](https://github.com/chang-pro/number-validator)** — Phone-number validation & risk-scoring CLI using the IPQualityScore API `Open Source`
 
 ## 🌐 Web & Product
 
-- 🏡 **[Real Estate Poster Generator](https://github.com/chang-pro/real-estate-poster-gen)** — Marketing posters from 10 unique templates `Open Source`
 
 ## 📊 Building in Public
 
