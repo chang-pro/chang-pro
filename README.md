@@ -1,4 +1,4 @@
-# Hey, I'm Dechante 👋
+﻿# Hey, I'm Dechante 👋
 
 📍 **Central Florida** | 🤖 **AI Automation Engineer** | 📞 **Voice/Telephony + Full-Stack SaaS**
 
@@ -28,6 +28,14 @@
 Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your video, scores the highest-virality moments with AI hook ranking, then cuts 9:16 clips with karaoke captions and hook overlays. Includes a web UI and a clip combiner.
 
 `Python` `Flask` `faster-whisper` `Gemini 2.5 Flash` `FFmpeg` `OpenCV`
+
+### 🎥 [Meta AI MCP](https://github.com/chang-pro/meta-ai-mcp) — Free AI Video Generation MCP `Open Source`
+
+> Generate AI videos from Claude Code for free — no API key, no subscription.
+
+Reverse-engineered Meta AI Vibes to expose a working MCP tool and CLI. Browser-driven CDP automation because Meta sends prompts over protobuf WebSocket — no pure-HTTP client exists. Text→video and image→video both work. ~30-90s per clip.
+
+`Python` `MCP` `Chrome CDP` `agent-browser` `FFmpeg` `Reverse Engineering`
 
 - 🎯 **[Viral Hook Extractor](https://github.com/chang-pro/viral-hook-extractor)** — AI video clipper that finds high-retention hooks, ranks cuts, reframes to 9:16, and burns captions `Open Source`
 - 🤖 **[Job Application Automation](https://github.com/chang-pro/jobbot)** — Multi-ATS apply engine (Workday, Greenhouse, Lever, Ashby, Handshake) with a deterministic fill engine + LLM fallback
@@ -69,3 +77,4 @@ Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your vide
 ---
 
 > Most projects are **closed source** and in active development. If you're interested for hiring, collaboration, or licensing — reach out. Open source contributions are marked above.
+
