@@ -46,6 +46,16 @@ Browser-driven CDP automation using your real logged-in Chrome session. No partn
 `Python` `MCP` `Chrome CDP` `LinkedIn`
 
 
+## 📈 Algorithmic Trading
+
+### 🎯 [no-backtest-drift](https://github.com/chang-pro/no-backtest-drift) — Live/Backtest Parity Pattern `Source Available`
+
+> Stop your trading bot from lying to you. One pattern: live engine delegates to backtest engine. Zero drift.
+
+The #1 silent killer in algo bots is live-vs-backtest divergence. Separate entry logic in two places means they drift. This pattern fixes it structurally — the live engine has no entry logic of its own. It calls the backtest engine's exact `should_enter()` function. One brain, used in both places. 10 tests document every config-default trap and verify parity on every bar.
+
+`Python` `Algorithmic Trading` `IBKR` `Backtesting` `pytest`
+
 ## 📞 Voice, Telephony & SaaS
 
 - 📟 **Ringora** — Multi-tenant SaaS CRM & power dialer: Telnyx WebRTC, Stripe billing, AI call analysis, Rust WASM
