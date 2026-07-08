@@ -1,4 +1,4 @@
-﻿# Hey, I'm Dechante 👋
+# Hey, I'm Dechante 👋
 
 📍 **Central Florida** | 🤖 **AI Automation Engineer** | 📞 **Voice/Telephony + Full-Stack SaaS**
 
@@ -36,6 +36,14 @@ Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your vide
 Reverse-engineered Meta AI Vibes to expose a working MCP tool and CLI. Browser-driven CDP automation because Meta sends prompts over protobuf WebSocket — no pure-HTTP client exists. Text→video and image→video both work. ~30-90s per clip.
 
 `Python` `MCP` `Chrome CDP` `agent-browser` `FFmpeg` `Reverse Engineering`
+
+### 🔗 [LinkedIn MCP](https://github.com/chang-pro/linkedin-mcp) — LinkedIn Browser Automation MCP `Source Available`
+
+> Post, comment, like, and DM on LinkedIn from Claude Code — no official API, no $300/month tools.
+
+Browser-driven CDP automation using your real logged-in Chrome session. No partner-program approval, no PhantomBuster subscription. Five MCP tools: post (with image), comment, like, DM, and session status check.
+
+`Python` `MCP` `Chrome CDP` `LinkedIn`
 
 - 🎯 **[Viral Hook Extractor](https://github.com/chang-pro/viral-hook-extractor)** — AI video clipper that finds high-retention hooks, ranks cuts, reframes to 9:16, and burns captions `Open Source`
 - 🤖 **[Job Application Automation](https://github.com/chang-pro/jobbot)** — Multi-ATS apply engine (Workday, Greenhouse, Lever, Ashby, Handshake) with a deterministic fill engine + LLM fallback
