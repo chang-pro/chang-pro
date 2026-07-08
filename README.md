@@ -46,8 +46,6 @@ Browser-driven CDP automation using your real logged-in Chrome session. No partn
 `Python` `MCP` `Chrome CDP` `LinkedIn`
 
 - 🎯 **[Viral Hook Extractor](https://github.com/chang-pro/viral-hook-extractor)** — AI video clipper that finds high-retention hooks, ranks cuts, reframes to 9:16, and burns captions `Open Source`
-- 🤖 **[Job Application Automation](https://github.com/chang-pro/jobbot)** — Multi-ATS apply engine (Workday, Greenhouse, Lever, Ashby, Handshake) with a deterministic fill engine + LLM fallback
-- 📈 **[MES Trading Bot](https://github.com/chang-pro/mes-trading-bot)** — Algorithmic futures system with a custom backtest engine and live execution
 
 ## 📞 Voice, Telephony & SaaS
 
