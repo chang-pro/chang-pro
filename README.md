@@ -51,7 +51,7 @@ Browser-driven CDP automation using your real logged-in Chrome session. No partn
 
 ## 📞 Voice, Telephony & SaaS
 
-- 📟 **[Ringora](https://github.com/chang-pro/ringora-crm)** — Multi-tenant SaaS CRM & power dialer: Telnyx WebRTC, Stripe billing, AI call analysis, Rust WASM
+- 📟 **Ringora** — Multi-tenant SaaS CRM & power dialer: Telnyx WebRTC, Stripe billing, AI call analysis, Rust WASM
 - 🦷 **[AI Dental Voice Bot](https://github.com/chang-pro/dental-voice-agent)** — Voice AI for dental appointment scheduling via Vapi, Google Calendar, and Twilio SMS
 - ☎️ **[Number Validator](https://github.com/chang-pro/number-validator)** — Phone-number validation & risk-scoring CLI using the IPQualityScore API `Open Source`
 
