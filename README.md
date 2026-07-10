@@ -29,7 +29,7 @@ Built with **Whisper (GPU)** + **Gemini AI** + **FFmpeg**. Transcribes your vide
 
 `Python` `Flask` `faster-whisper` `Gemini 2.5 Flash` `FFmpeg` `OpenCV`
 
-### 🎥 [Meta AI MCP](https://github.com/chang-pro/meta-ai-mcp) — Free AI Video Generation MCP `Open Source`
+### 🖼️ [Meta AI MCP](https://github.com/chang-pro/meta-ai-mcp) — Free image generation + AI prompting via Meta AI `Source Available`
 
 > Generate AI videos from Claude Code for free — no API key, no subscription.
 
