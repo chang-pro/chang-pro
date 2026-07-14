@@ -47,7 +47,7 @@
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="github stats" width="32.5%" />
 <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="commit time of day" width="32.5%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chang-pro&hide_border=true&theme=github-dark-blue" alt="contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chang-pro&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F2CC60&currStreakNum=E6EDF3&currStreakLabel=58A6FF&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" alt="contribution streak" />
 
 </div>
 
