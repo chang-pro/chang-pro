@@ -107,10 +107,7 @@ The #1 silent killer in algo bots is live-vs-backtest divergence. This pattern f
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chang-pro&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chang-pro&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chang-pro&hide_border=true&theme=github-dark-blue" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chang-pro&hide_border=true&theme=github-dark-blue" alt="contribution streak" />
 
 </div>
 
