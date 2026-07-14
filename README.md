@@ -1,6 +1,13 @@
+<!-- Contribution snake (auto-generated every 12h by .github/workflows/snake.yml) -->
 <div align="center">
 
-<img src="./assets/header_deploy.svg" alt="Dechante Chang — Forward-Deployed AI & Systems Engineer" width="820" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
+</picture>
+
+# Hey, I'm Dechante 👋
 
 📍 **Central Florida** &nbsp;·&nbsp; 🤖 **Forward-Deployed AI & Systems Engineer** &nbsp;·&nbsp; 🎓 **CS @ UCF (Dec 2026)**
 
@@ -31,14 +38,22 @@
 
 > I design, deploy, and operate autonomous AI systems and production SaaS — multi-agent automation, media pipelines, and trading bots on one side; WebRTC voice platforms, power dialers, and CRMs on the other. I ship fast, automate everything, and let the work speak for itself.
 
-<!-- Contribution snake (auto-generated every 12h by .github/workflows/snake.yml) -->
+<!-- Self-hosted stat cards (regenerated daily by .github/workflows/profile-cards.yml) -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
-</picture>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" width="820" />
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="top languages by repo" width="32.5%" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="github stats" width="32.5%" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="commit time of day" width="32.5%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chang-pro&hide_border=true&theme=github-dark-blue" alt="contribution streak" />
+
+</div>
+
+<div align="center">
+
+<img src="./assets/header_deploy.svg" alt="Deploy terminal — hackathon win and open-source merges" width="820" />
 
 </div>
 
@@ -111,16 +126,6 @@ The #1 silent killer in algo bots is live-vs-backtest divergence. This pattern f
 
 - 🛠️ **[daily-builds](https://github.com/chang-pro/daily-builds)** — a public log of what I ship most days. Project repos stay private; the cadence is public.
 - 🌱 **[openai-chart-data-analyzer](https://github.com/chang-pro/openai-chart-data-analyzer)** — one of my first builds (2022): a PyQt GUI querying GPT-3 on chart data. Kept as a marker of how far the work has come.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chang-pro&hide_border=true&theme=github-dark-blue" alt="contribution streak" />
-
-</div>
 
 ---
 
