@@ -31,6 +31,17 @@
 
 > I design, deploy, and operate autonomous AI systems and production SaaS — multi-agent automation, media pipelines, and trading bots on one side; WebRTC voice platforms, power dialers, and CRMs on the other. I ship fast, automate everything, and let the work speak for itself.
 
+<!-- Contribution snake (auto-generated every 12h by .github/workflows/snake.yml) -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 🏆 Awards & Open Source
@@ -108,17 +119,6 @@ The #1 silent killer in algo bots is live-vs-backtest divergence. This pattern f
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chang-pro&hide_border=true&theme=github-dark-blue" alt="contribution streak" />
-
-</div>
-
-<!-- Contribution snake (auto-generated every 12h by .github/workflows/snake.yml) -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chang-pro/chang-pro/output/github-snake.svg" />
-</picture>
 
 </div>
 
