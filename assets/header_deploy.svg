@@ -1,0 +1,69 @@
+<svg width="820" height="320" viewBox="0 0 820 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal deploy: Dechante Chang">
+  <style>
+    .mono { font-family: 'SFMono-Regular','Courier New',Menlo,Consolas,monospace; font-size: 15px; }
+    .prompt{fill:#3FB950;} .cmd{fill:#E6EDF3;} .out{fill:#8B949E;} .name{fill:#58A6FF;}
+    .gold{fill:#F2CC60;} .green{fill:#3FB950;} .cyan{fill:#39C5CF;}
+
+    @keyframes show { to { opacity: 1; } }
+    @keyframes type { to { clip-path: inset(0 0 0 0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes grow { from { width: 0; } to { width: 300px; } }
+    @keyframes spin1 { 0%,100%{opacity:1} 12%,88%{opacity:0} }
+
+    .line { opacity: 0; }
+    .type { clip-path: inset(0 100% 0 0); }
+
+    .l1 { animation: show .01s linear .3s forwards; }
+    .l1 .type { animation: type .8s steps(30,end) .3s forwards; }
+    .spinbox { animation: show .01s linear 1.2s forwards; }
+    .bar { animation: show .01s linear 1.2s forwards; }
+    .fill { animation: grow 2.4s cubic-bezier(.4,0,.2,1) 1.3s forwards; }
+    .done { animation: show .01s linear 3.9s forwards; }
+    .l4 { animation: show .01s linear 4.3s forwards; }
+    .l5 { animation: show .01s linear 4.9s forwards; }
+    .l6 { animation: show .01s linear 5.6s forwards; }
+    .cursor { animation: blink 1s steps(2,start) infinite; }
+
+    /* spinner: 8 frames each visible ~1/8 of a 0.8s cycle */
+    .sp { opacity: 0; }
+    .sp1{animation: spin1 .8s linear 1.2s infinite; animation-delay:1.2s;}
+  </style>
+
+  <rect x="1" y="1" width="818" height="318" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <rect x="1" y="1" width="818" height="38" rx="12" fill="#161B22"/>
+  <rect x="1" y="24" width="818" height="15" fill="#161B22"/>
+  <circle cx="24" cy="20" r="6" fill="#FF5F56"/><circle cx="46" cy="20" r="6" fill="#FFBD2E"/><circle cx="68" cy="20" r="6" fill="#27C93F"/>
+  <text x="410" y="25" text-anchor="middle" class="mono" fill="#8B949E" font-size="13">chang-pro — deploy</text>
+
+  <g class="mono">
+    <!-- command -->
+    <g class="line l1"><text x="24" y="80"><tspan class="prompt">➜</tspan><tspan class="cyan" dx="8">~</tspan><tspan class="cmd type" dx="10">./deploy --prod dechante.chang</tspan></text></g>
+
+    <!-- spinner line -->
+    <g class="line spinbox">
+      <!-- rotating arc spinner -->
+      <g transform="translate(30,107)">
+        <circle r="7" fill="none" stroke="#21262D" stroke-width="2.5"/>
+        <path d="M0,-7 A7,7 0 0 1 7,0" fill="none" stroke="#3FB950" stroke-width="2.5" stroke-linecap="round">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="0.7s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <text x="46" y="112" class="out">building pipeline · voice · trading · agents</text>
+    </g>
+
+    <!-- progress bar -->
+    <g class="bar">
+      <rect x="24" y="128" width="300" height="10" rx="5" fill="#21262D"/>
+      <rect x="24" y="128" height="10" rx="5" fill="#3FB950" class="fill"/>
+      <text x="336" y="137" class="out" font-size="13">deploying…</text>
+    </g>
+
+    <!-- results -->
+    <g class="line done"><text x="24" y="176"><tspan class="green">✓</tspan><tspan class="name" dx="8">Dechante Chang</tspan><tspan class="out" dx="6">— Forward-Deployed AI &amp; Systems Engineer</tspan></text></g>
+    <g class="line l4"><text x="24" y="204"><tspan class="gold">🏆</tspan><tspan class="out" dx="6">1st Place — Google Gemini Hackathon (BloomKnights)</tspan></text></g>
+    <g class="line l5"><text x="24" y="232"><tspan class="green">✅</tspan><tspan class="out" dx="6">merged into Streamlit · 5 open PRs: pandas · scikit-learn · dask</tspan></text></g>
+    <g class="line l6"><text x="24" y="264"><tspan class="green">▸</tspan><tspan class="out" dx="6">status: shipping, always</tspan></text></g>
+
+    <g><text x="24" y="296"><tspan class="prompt">➜</tspan><tspan class="cyan" dx="8">~</tspan></text><rect x="52" y="284" width="9" height="16" fill="#3FB950" class="cursor"/></g>
+  </g>
+</svg>
