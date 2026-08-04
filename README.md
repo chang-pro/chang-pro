@@ -116,6 +116,16 @@ Browser-driven CDP automation using your real logged-in Chrome session. Five MCP
 
 `Python` `MCP` `Chrome CDP` `LinkedIn`
 
+### 🔎 [Perplexity Scraper](https://github.com/chang-pro/perplexity-scraper) — Perplexity client + MCP via your own web session `Source Available`
+
+> Reach Perplexity from a script or MCP client using the account you already pay for — no API key.
+
+Dependency-free Python (stdlib only). Talks to Perplexity's private SSE endpoint and reads its current `blocks`-based response format that broke older clients. Three modes — search, research, reason — as a library, CLI, and drop-in MCP server.
+
+`Python` `MCP` `SSE` `stdlib-only`
+
+> ℹ️ **The browser-automation / web-session tools above (Meta AI, LinkedIn, Perplexity) are unofficial and not affiliated with, endorsed by, or connected to those companies.** They drive accounts I own, for personal use, and each names its respective trademark owner only to describe interoperability. See each repo's README for its full disclaimer.
+
 ## 📈 Algorithmic Trading
 
 ### 🎯 [no-backtest-drift](https://github.com/chang-pro/no-backtest-drift) — Live/Backtest Parity Pattern `Source Available`
