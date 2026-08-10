@@ -84,11 +84,11 @@ Contributing fixes to the data & AI infrastructure I build on every day — **1 
 
 ## 🤖 AI Automation & Agents
 
-### 🎙️ [Meeting Copilot](https://github.com/chang-pro/meeting-copilot) — Real-time meeting & interview copilot `Open Source`
+### 🎙️ Meeting Copilot — Real-time meeting & interview copilot `Private`
 
 > Listens to any call, waits for the real question, and answers from your own knowledge base — 100% local and private.
 
-Captures system audio, transcribes **on-device with Whisper (GPU)**, detects when a speaker actually finishes talking (a wall-clock turn detector, so it ignores rambling and filler), then streams a first-person answer grounded in your own notes from any **OpenAI-compatible** LLM. Bring your own API key; your notes never leave your machine.
+Captures system audio, transcribes **on-device with Whisper (GPU)**, detects when a speaker actually finishes talking (a wall-clock turn detector, so it ignores rambling and filler), then streams a first-person answer grounded in your own notes from any **OpenAI-compatible** LLM. Dual-mode: Answers tab for spoken replies, Code tab for algorithm questions. Hidden from screen share.
 
 `Electron` `Node.js` `faster-whisper` `OpenAI-compatible LLM` `System-audio loopback`
 
