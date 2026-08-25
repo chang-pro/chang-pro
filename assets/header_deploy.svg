@@ -59,9 +59,9 @@
     </g>
 
     <!-- results -->
-    <g class="line done"><text x="24" y="176"><tspan class="green">✓</tspan><tspan class="name" dx="8">Dechante Chang</tspan><tspan class="out" dx="6">— Forward-Deployed AI &amp; Systems Engineer</tspan></text></g>
-    <g class="line l4"><text x="24" y="204"><tspan class="gold">🏆</tspan><tspan class="out" dx="6">1st Place — Google Gemini Hackathon (BloomKnights)</tspan></text></g>
-    <g class="line l5"><text x="24" y="232"><tspan class="green">✅</tspan><tspan class="out" dx="6">merged into Streamlit · 5 open PRs: pandas · scikit-learn · dask</tspan></text></g>
+    <g class="line done"><text x="24" y="176"><tspan class="green">✓</tspan><tspan class="name" dx="8">Dechante Chang</tspan><tspan class="out" dx="6">— Forward-Deployed Software Engineer</tspan></text></g>
+    <g class="line l4"><text x="24" y="204"><tspan class="gold">🏅</tspan><tspan class="out" dx="6">Winner, Best Use of Google Gemini — BloomKnights</tspan></text></g>
+    <g class="line l5"><text x="24" y="232"><tspan class="green">✅</tspan><tspan class="out" dx="6">merged into Streamlit · fixes in review: pandas · scikit-learn · dask</tspan></text></g>
     <g class="line l6"><text x="24" y="264"><tspan class="green">▸</tspan><tspan class="out" dx="6">status: shipping, always</tspan></text></g>
 
     <g><text x="24" y="296"><tspan class="prompt">➜</tspan><tspan class="cyan" dx="8">~</tspan></text><rect x="52" y="284" width="9" height="16" fill="#3FB950" class="cursor"/></g>
