@@ -9,7 +9,7 @@
 
 # Hey, I'm Dechante 👋
 
-📍 **Central Florida** &nbsp;·&nbsp; 🤖 **Forward-Deployed AI & Systems Engineer** &nbsp;·&nbsp; 🎓 **CS @ UCF (Dec 2026)**
+📍 **Orlando, Florida** &nbsp;·&nbsp; 🤖 **Forward-Deployed Software Engineer** &nbsp;·&nbsp; 🎓 **CS @ UCF (Dec 2026, 3.73 GPA)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -36,7 +36,7 @@
 
 </div>
 
-> I design, deploy, and operate autonomous AI systems and production SaaS — multi-agent automation, media pipelines, and trading bots on one side; WebRTC voice platforms, power dialers, and CRMs on the other. I ship fast, automate everything, and let the work speak for itself.
+> I turn ambiguous requirements into deployed systems. Recent work: a 1,063-test procurement-data QA harness, a 52-requirement DoD-sponsored vendor evaluation, production voice/CRM/billing integrations for a paying client, and a merged Streamlit fix.
 
 <!-- Self-hosted stat cards (regenerated daily by .github/workflows/profile-cards.yml) -->
 <div align="center">
@@ -61,9 +61,9 @@
 
 ## 🏆 Awards & Open Source
 
-### 🥇 1st Place — Google Gemini Hackathon (BloomKnights)
+### 🏅 Winner, Best Use of Google Gemini — BloomKnights
 
-Architected a **real-time sports prediction market**: edge-device camera feeds from **Ray-Ban Meta** glasses capture the live game, **Gemini** orchestration extracts team stats on the fly, and the system streams back **dynamic win probabilities** as the play unfolds.
+Co-built a real-time sports prototype: **Ray-Ban Meta** video streams over WebRTC, **Gemini** identifies the sport, and local WebGPU vision tracks players for comparison with historical model and market probabilities.
 
 `Gemini` `LLM Orchestration` `Ray-Ban Meta` `Real-Time Vision` `Prediction Markets`
 
@@ -83,14 +83,6 @@ Contributing fixes to the data & AI infrastructure I build on every day — **1 
 ---
 
 ## 🤖 AI Automation & Agents
-
-### 🎙️ Meeting Copilot — Real-time meeting & interview copilot `Private`
-
-> Listens to any call, waits for the real question, and answers from your own knowledge base — 100% local and private.
-
-Captures system audio, transcribes **on-device with Whisper (GPU)**, detects when a speaker actually finishes talking (a wall-clock turn detector, so it ignores rambling and filler), then streams a first-person answer grounded in your own notes from any **OpenAI-compatible** LLM. Dual-mode: Answers tab for spoken replies, Code tab for algorithm questions. Hidden from screen share.
-
-`Electron` `Node.js` `faster-whisper` `OpenAI-compatible LLM` `System-audio loopback`
 
 ### 🎬 [ClipPro](https://github.com/chang-pro/clippro) — Free Opus Clip Alternative `Open Source`
 
@@ -149,10 +141,10 @@ The #1 silent killer in algo bots is live-vs-backtest divergence. This pattern f
 
 ## What I'm About
 
-- **Shipping production software** — SaaS platforms, telephony systems, AI pipelines, and trading bots running in prod
-- **AI-native development** — building with Claude, Gemini, and custom multi-agent systems to move faster
-- **Voice & telephony engineering** — WebRTC, Twilio, Telnyx, Vapi — browser-based calling is my thing
-- **Automating everything** — if it can be automated, it should be
+- **Shipping production software** — data-quality tooling, SaaS platforms, telephony systems, and applied-AI pipelines
+- **Forward-deployed engineering** — converting incomplete stakeholder asks into testable systems and decision artifacts
+- **Voice and real-time systems** — WebRTC, Twilio, Telnyx, browser calling, and event-driven integrations
+- **Open source** — one merged upstream Streamlit fix, with additional data and tooling fixes under review
 
 ## Connect
 
@@ -160,7 +152,6 @@ The #1 silent killer in algo bots is live-vs-backtest divergence. This pattern f
 
 [![Portfolio](https://img.shields.io/badge/-dmchang.xyz-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.dmchang.xyz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/changweb)
-[![TechHelpFL](https://img.shields.io/badge/-TechHelpFL.com-brightgreen?style=flat-square&logo=google-chrome&logoColor=white)](https://techhelpfl.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chang-pro)
 
 </div>
